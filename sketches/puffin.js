@@ -1,8 +1,10 @@
+///code originally by Michael Fuller
+//http://www.michaelfuller56.com/
+
 function puffin (){
 
 let puffin1;
 let puffin2;
-
 
 this.enter = function() {
   puffin1 = new Puffin();

@@ -1,3 +1,6 @@
+//Sketch by Roland Arnoldt
+//http://ouiouioui.space/
+
 function roland(){
 let fish1;
 let fish2;
